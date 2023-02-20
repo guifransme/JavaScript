@@ -1,0 +1,27 @@
+    Segundo uma pesquisa  de levantamento do StakerOverFlow,
+ que é uma das maiores plataformas de rreunião de Programadores 
+ de todo o mundo éla mostrava que em 2019 o JS(javaScrip) era uma
+ das linguagens de Rpogramação mais populares de Todo m Mundo , pois 
+ o javascrip é uma das linguagens quem mais tem materia de estudo e pessoas 
+ interessadas nela.
+    Muitas das maiores empresas do mundo como:
+> Google,
+> YouTube,
+> Linkedin,
+> Netflix,
+> Facebook,
+> Uber,
+> PayPal.
+    Utilizam javaScrip em suas  apliacações, Basicamente Todo site e aplicação 
+que voce utiliza em seu celular ou computador utiliza javaScrip em seu código.
+    Caso Voce ja saiba programar , ou seja um programador mais experiente que 
+quer aprender novas técnologias, e provavelmente voce se deparou com:
+> JQuery, 
+> Angular,
+> React, 
+> Vue.JS,
+> Electron,
+> Ionic,
+> Cordova.
+    E todas elas tem algo em comum!!
+    Todas essas técnologias Utilizam, na sua essencia, a linguagem javaScrip 
