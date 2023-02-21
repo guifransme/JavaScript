@@ -155,38 +155,83 @@ Programador(a)
         O Objetivo do HTML é simplesmente o conteúdo, e o conteúdo aqui está bem organizado. Feito isso ela vai entregar tos esse documento que esta aqui ao lado
      para o Designer.
 
-HTML
-    (
-        > Titulo
-        >
-        >   paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
-        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
-        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
-        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
-        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
-        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
-        >   
-        >   |--------------------------------------------------------|
-        >   |                                                        |
-        >   |                                                        |
-        >   |                                                        |
-        >   |                                                        |
-        >   |                        imagem                          |
-        >   |                                                        |
-        >   |                                                        |
-        >   |                                                        |
-        >   |                                                        |
-        >   |                                                        |
-        >   |--------------------------------------------------------|
-        > 
-        >  paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
-        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
-        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
-        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
-        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
-        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
-    )
+        HTML
+            (
+                > Titulo
+                >
+                >   paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+                >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
+                >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
+                >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+                >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+                >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+                >   
+                >   |--------------------------------------------------------|
+                >   |                                                        |
+                >   |                                                        |
+                >   |                                                        |
+                >   |                                                        |
+                >   |                        imagem                          |
+                >   |                                                        |
+                >   |                                                        |
+                >   |                                                        |
+                >   |                                                        |
+                >   |                                                        |
+                >   |--------------------------------------------------------|
+                > 
+                >  paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+                > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
+                >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
+                > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+                >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+                > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+            )
 CSS
      -----/ designer /-----
         Mas o designer vai fazer?? 
-
+        Ele vai pegar esses textos, os paragrafos que existirem no textos,
+     e vai organizar as coisas para deixar um pouco mais agradavel aos olhos, e um pouco mais arrumado.
+        vai fazer a Formatação dos textos, organização dos paragrafos dar uma Formatação para imagem, emfim
+     ele vai fazer o design dela  lá.
+        ele pode colocar, como por exemplo  isso como uma reportagem um pouco menor , que caiba em um cantinho 
+     de um paragrafo de uma página, vai colocar uma borda, vai apricar cores. efim vai deixar a a coisa ficar 
+     bonita.
+        E ai chega ao momento das interações, e é ai que entra oo JavaScriptna historia.
+                    (
+                >|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+                >|  |Titulo                                                                                                                                                      |
+                >|                                                                                                                                                               |
+                >|   paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud   |
+                >| ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.   |
+                >|                                                                                                                                                               | 
+                >|   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe        |
+                >| ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.               |
+                >|                                                                                                                                                               |
+                >|   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud              |
+                >|ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.                |
+                >|                                                                                                                                                               |
+                >|   |--------------------------------------------------------|                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                        imagem                          |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |                                                        |                                                                                                  |
+                >|   |--------------------------------------------------------|                                                                                                  |
+                >|                                                                                                                                                               |   
+                >|  paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud    |
+                >| ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudsrg.                     |
+                >|                                                                                                                                                               |
+                >|    ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe       |     
+                >| ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.               |
+                >|                                                                                                                                                               |
+                >|   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud              |           
+                >| ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.               |
+                >|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+            )
+JavaScript 
+parei na parte 14:14 da aula 1
