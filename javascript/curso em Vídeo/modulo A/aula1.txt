@@ -3,5 +3,51 @@ R: È muito facil de Te
 explicar, o JavaScript faz
 particamente Tudo.
 
-Parei na parte 04:00 do video
+    Começamndo Por Um conceito muito importante.
+    Temos Que entender na internet, o conceito 
+de ClientexServidor.
+    Nesse Exato momento voce esta utiliznaodo 
+este conceito, seja pelo seu computador ou celular.
+    Bem o computador ou celular São os "Clientes", 
+voce esta utilizando um serviço que está sendo fornecido
+por um servidor.
+    Nesse exato momento, por exemplo, voce está pegando 
+dados de um servidor do YouTube.
+    Esses servidores, essas maquinas de alta  performace São
+quem estão fornecendo os dados que são esse video.
+    Então quando voce acessa internet, seja o que for: Whatsapp,
+Facebook, Instagram, O site do Google, O site d YouTube, O seu  Gmail
+    Do seu momento em que voce usa um dispositivo , ele é Cliente. O 
+que precisa de dados de um servidor, as vezes é até mais de um servidor.
+     E como voce faz esse acesso na internet ???
+R:  voce Usa um Navegador, como exemplo  o Google chrome.
+    Então quando voce entra no Google chrome  e digita o 
+"www.YouTube.com/cursosemvideo", esse nome que voce digitou, que a gente 
+chama de URL, vai  para a Infraestrutura da Internet, e ela vai te responder 
+exatamente para a qual servidor voce vai ser desviado.
+    existe uma série de Tecnologia emvolvida nisso, mas o fato é: de uma maneira
+ou outra a Infraestrutura da Internet  que pode ser representado por uma Nuvem , 
+vai chegar ao um determinado servidor.
+    Esse servidor é parecido com a sua máquina de mmaneira fundamental.ela tem um 
+sistema operacional, ele tem pastas, ele tem Diretorios internos.
+    Dentro dessas pastas  ele tem arquivos, e esses arquivos é o que voce esta 
+interessado, Esses arquivos podem ser uma foto, pode ser um Texto, pode ser como no 
+seu caso um video, E na maioria das vezes é um documento HTML.
+     Na hora que vocve solicita po um servidor, ele te envia uma copia, Então ele vai 
+pegar o arquivo, vai colocar uma copia, e via mandar esse copia para voce.
+    essa copia é emviada diretamente para o  Cliente(voce) no seu Google chrome( seu 
+Navegador web).
+    o seu Navegador a apartir daí vai começar a trabalhar para geral o efeito visual, para 
+gerar o site exatamente como voce está vendo agora.
 
+     Então, de uma maneira bem resumida, a web funciona assim:
+a parte que vemos é a parte Cliente(celulares,tablets,computadores e desktops), ou seja, voce 
+que esta lendo esse arquivo. 
+    O conteudo que nós vemos na web são um bando de arquivos, e esses arquivos são emviados pelos
+servidores.
+    Então, Bastante, voce consegue entender que existe Tecnologia na parte do Cliente, e existe Tecnologia
+para servidores.
+    o JavaScript surgiu como uma Tecnologia para Clientes.e bem verdade, hoje ele funciona até nos servidores,
+mas a gente via focar no funcinamento do JavaScript na parte para usuarios.
+    sendo assi, para a gente aqui, de forma fundamental e bem basica o JavaScript  é uma Tecnologia Client
+    parei na parte 07:13 do video
