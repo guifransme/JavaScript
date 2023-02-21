@@ -6,48 +6,187 @@ particamente Tudo.
     Começamndo Por Um conceito muito importante.
     Temos Que entender na internet, o conceito 
 de ClientexServidor.
+
     Nesse Exato momento voce esta utiliznaodo 
 este conceito, seja pelo seu computador ou celular.
+
     Bem o computador ou celular São os "Clientes", 
 voce esta utilizando um serviço que está sendo fornecido
 por um servidor.
+
     Nesse exato momento, por exemplo, voce está pegando 
 dados de um servidor do YouTube.
+
     Esses servidores, essas maquinas de alta  performace São
 quem estão fornecendo os dados que são esse video.
+
     Então quando voce acessa internet, seja o que for: Whatsapp,
-Facebook, Instagram, O site do Google, O site d YouTube, O seu  Gmail
+Facebook, Instagram, O site do Google, O site d YouTube, O seu  Gmail por exemplo.
+
     Do seu momento em que voce usa um dispositivo , ele é Cliente. O 
 que precisa de dados de um servidor, as vezes é até mais de um servidor.
+
      E como voce faz esse acesso na internet ???
 R:  voce Usa um Navegador, como exemplo  o Google chrome.
+
     Então quando voce entra no Google chrome  e digita o 
 "www.YouTube.com/cursosemvideo", esse nome que voce digitou, que a gente 
 chama de URL, vai  para a Infraestrutura da Internet, e ela vai te responder 
 exatamente para a qual servidor voce vai ser desviado.
+
     existe uma série de Tecnologia emvolvida nisso, mas o fato é: de uma maneira
 ou outra a Infraestrutura da Internet  que pode ser representado por uma Nuvem , 
 vai chegar ao um determinado servidor.
+
     Esse servidor é parecido com a sua máquina de mmaneira fundamental.ela tem um 
 sistema operacional, ele tem pastas, ele tem Diretorios internos.
+
     Dentro dessas pastas  ele tem arquivos, e esses arquivos é o que voce esta 
 interessado, Esses arquivos podem ser uma foto, pode ser um Texto, pode ser como no 
 seu caso um video, E na maioria das vezes é um documento HTML.
+
      Na hora que vocve solicita po um servidor, ele te envia uma copia, Então ele vai 
 pegar o arquivo, vai colocar uma copia, e via mandar esse copia para voce.
+
     essa copia é emviada diretamente para o  Cliente(voce) no seu Google chrome( seu 
 Navegador web).
+
     o seu Navegador a apartir daí vai começar a trabalhar para geral o efeito visual, para 
 gerar o site exatamente como voce está vendo agora.
 
      Então, de uma maneira bem resumida, a web funciona assim:
 a parte que vemos é a parte Cliente(celulares,tablets,computadores e desktops), ou seja, voce 
 que esta lendo esse arquivo. 
+
     O conteudo que nós vemos na web são um bando de arquivos, e esses arquivos são emviados pelos
 servidores.
+
     Então, Bastante, voce consegue entender que existe Tecnologia na parte do Cliente, e existe Tecnologia
 para servidores.
+
     o JavaScript surgiu como uma Tecnologia para Clientes.e bem verdade, hoje ele funciona até nos servidores,
 mas a gente via focar no funcinamento do JavaScript na parte para usuarios.
-    sendo assi, para a gente aqui, de forma fundamental e bem basica o JavaScript  é uma Tecnologia Client
-    parei na parte 07:13 do video
+    sendo assi, para a gente aqui, de forma fundamental e bem basica o JavaScript  é uma Tecnologia Client-Side,ou seja,
+o JavaScript funciona muito mais do lado do Cliente.
+
+    voce que já sabe um pouco mais, sabe que ele também funciona em servidor, mas a gente sabe que ele surgiu basicamente 
+para cliente.
+
+    Quando voce começar a estudar um pouco mais de JavaScrip, voce vai descobrir que ele é muito maior, mas ppor enquanto vamos
+nos manter nos primeiros passos. 
+
+    uma outra coisa que é muito importante entender junto com o JavaScrip, são as Tecnologias relacinadas.
+    Pegando um site como o YouTube que  vc eat vendo na tela, pode ser pelo seu celular ou computador e vamos dar um destaque para 
+ele.
+
+    Esse website, na grande maioria das vezes, é composto por três Tecnologias do lado do cliente, e do lado do servidor, vai ter um monte
+de coisa também funcionando.
+
+    mas como Foi dito nosso foco inicial é cliente, são coisas que estão rodando no seu dispositivo.
+    o website representado(YouTube)é composto basicamente, na sua grande maioria das vezes, por Tecnologias muito importantes,claro que sera 
+explicado essas três Tecnologias criando um paralelo com o mundo real.
+    Exemplo:
+    Imagina que esse website fosse um Jornal, daqueles fisicos que voce ve na banca de Jornal para comprar e folhear.
+    Mas voce sabe que para existir um Jornal, eu preciso de alguns profissionais.
+    Vou representar essas três Tecnologias para três website, com três profissionais que trabalhem em um Jornal.
+    > Em primeiro lugar , eu vou representar uma Jornalista ou um Jornalista, tanto faz.
+    > O do meio é um(a) designer.
+
+    > E o Ultimo é um(a) programador(a).
+
+    Mas é claro que em um jornal real, a gente não precisa de programador(a) para o jornal sair.
+    Mas acompanhe a linha de Raciocínio, isso é apenas um paralelo.
+    Nessa ideia aqui o(a) Jornalista- que é um(a) profissional especializado(a) em produção de conteudo e tudo mais.
+    ele(a) é responssavel por:
+
+Jornalista
+    1- escrever o Texto da matéria 
+    2- também muitas vezes é responssavel junto com o(a) fotógrafo(a), de correr atrás de imagems  que ilustrem a sua 
+    reportagem.
+    3- e se por acasso ele(a) tiver uma ligação para outros tipos de mídia, como um video, uma matéria no rádio, ele(a)
+    vai ser responssavel por catálogar tudo isso.
+    4- Então basicamente, a nosso(a) primeiro(a) personagem é o(a) responssavel pelo conteudo.
+ mas nós sabem que  conteudo só por conteudo não se vende. É  preciso ter uma visão atraente de tudo, é ai que entra o designer
+Designer  
+    O designer vai pegar todo esse Texto,imagens, e todas as mídias sepatadas pelo(a) Jornalista e vai tornar tudo mais bonito.
+    Ele vai organizar cores, vai organizar tamanhos e posições de cada  um desses componentes, vai diagnosticar e dimensionar 
+ formatos diferentes.
+ exemplo: um jornal maior outro menor.
+ ele(a) vai deixar as coisas mais bonitas.
+Programador(a)
+    O programador(a), no fim é aquele que vai tratar da emgenharia da emtrega do jornal.
+    Ele(a) vai pensar em que áreas a gente precisa entregar mais jornal, menos jornal, vai tratra das configurações de 
+ cada uma das coisas da entrega, e integração entre a empresa que fabrica o jornal, e a que distribui o jornal.
+ A seguranaça para que o jornal seja entregue, e tudo mais.
+
+    Então Esses três profissionais trabalham em conjunto.
+    O jornal não aconteria sem esse três.
+
+    E o website que usamos como exemplo(o YouTube) não vai conseguir existir  sem essas três peças fundamentais: o conteudo,
+ o design e as interações.
+
+    e o que estamos falando de desenvolvimento de site, esses três caras aquii tem nomes, ele tem siglas, eles são a Tecnologia.
+    O(a) Jornalista: responssavel pelo conteudo é o que a gente chamaria de HTML, e provavelmente voce já ouviu falar nessa sigra.
+    o(a) designer: que é responder por dar aparencia e estilizar o HTML é o CSS.
+    E o(a) programador(a): que é o responder pela integração e  interações, a gente chama de JavaScript.
+
+    essa sãooo as três Tecnologias que voce vai precisar conhecer.
+    esse Repositoŕio que esta aqui é de JavaScript, mas voce também te que conhecer um pouco mais o HTML, e o CSS. 
+
+    Então as Tecnologias Citas na vdd são o HTML,CSS e o JavaScrip
+    De forma bem sucinta HTML é a Jornalista. é ela que trata do conteúdo.
+    O CSS é o designer, é ele que cuida da estilização e aparencia.
+    E o JavaScript, é a parte do proegramador, é a parte  da interação.
+
+    E essas três Tecnologias funcionam em conjuntos, e são elas que compõem a parte do cliente da grande maioria dos sites de hoje em Dia.
+     
+        vamos criar uma situação Ipotetica  em que:
+        ------/ Jornalista /-----
+        a Jornalista, que a  gente viu na historia até pouco tempo atrás, foi chamada para fazer uma 
+     determinada reportagem.
+        Elas escreveu, em primeiro lugar, o titulo da reportagem, depois ela foi la  e produziu sua reportagem, e gerou o Texto, organizou os 
+     paragrafo, e fez o que todo(a) Jornalista faz muito bem.
+        essa parte que ela faz, a produção dos Textos  é o que a gente chama de HTML. A Tecnologia HTML para criação de sites ela foca principalmente 
+     nos Textos e nas marcações que existem nesse texto.
+        Então por exemplo ela pode criar marcas especificas, por exemplo: para transformar  o texto des de o topo como titulo, e todo titulo é um pouco
+     maior,e para não ficar chata a leitura, ela vai colocar uma imagem no meio.
+        Então tudo isso ainda é HTML. Então em HTML a gente consegue organizar textos, e voce percebe que o texto não está justificado, não esta  "bunitinho"
+     aquele texto alinhado em ambos os lados, está meio bagunçado. A gente tem um titulo, que esta maior, a gente tem imagens, mas nada de Ficar bonito.
+        O Objetivo do HTML é simplesmente o conteúdo, e o conteúdo aqui está bem organizado. Feito isso ela vai entregar tos esse documento que esta aqui ao lado
+     para o Designer.
+
+HTML
+    (
+        > Titulo
+        >
+        >   paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
+        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
+        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+        >ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+        >   
+        >   |--------------------------------------------------------|
+        >   |                                                        |
+        >   |                                                        |
+        >   |                                                        |
+        >   |                                                        |
+        >   |                        imagem                          |
+        >   |                                                        |
+        >   |                                                        |
+        >   |                                                        |
+        >   |                                                        |
+        >   |                                                        |
+        >   |--------------------------------------------------------|
+        > 
+        >  paragrafo: ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudubefubeegsrg.
+        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziusfwefwe
+        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+        >   ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud
+        > ubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziudasubefioewgvjdsnibondiubpudnbpdnziud.
+    )
+CSS
+     -----/ designer /-----
+        Mas o designer vai fazer?? 
+
